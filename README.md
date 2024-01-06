@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+I am Aditya Mishra from IIT ISM Dhanbad, a web developer with a strong foundation in MERN stack development. With a keen eye for detail and a commitment to clean, efficient code, I strive to bring creativity and functionality to every project I undertake. My goal is to contribute to the ever-evolving world of web development and create solutions that make a positive impact.
 
 
 ## 🌐 Socials:
