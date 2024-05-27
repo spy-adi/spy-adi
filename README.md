@@ -1,7 +1,7 @@
 # Hi there, I'm Aditya Mishra! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityamishra22)
+[![GitHub followers](https://img.shields.io/github/followers/spy-adi?label=Follow&style=social)](https://github.com/spy-adi)
 
 ## About Me
 
@@ -47,7 +47,7 @@ I'm an aspiring software engineer with a strong background in Electrical Enginee
 
 ## 📈 GitHub Stats
 
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=spy-adi&show_icons=true&theme=radical)](https://github.com/spy-adi)
 
 ## 🏆 Achievements
 
@@ -69,21 +69,21 @@ May 2023 - July 2023
 ## 📚 Projects
 
 **Thesis Management System - Web App**  
-[GitHub Repository](https://github.com/yourusername/thesis-management-system)  
+[GitHub Repository](https://github.com/spy-adi/thesis-management-system)  
 - Streamlined PhD student life-cycle at the institute, reducing thesis submission and evaluation times by 20%.
 - Created React.js-based portals with over 40 distinct web pages.
 
 **Tech Stack:** React.js, Node.js, Express.js, MySQL, Sequelize
 
 **Students Connect Hub - Web App**  
-[GitHub Repository](https://github.com/yourusername/students-connect-hub)  
+[GitHub Repository](https://github.com/spy-adi/students-connect-hub)  
 - Developed a student-centric portal for internship and placement registrations, reducing submission time by 25%.
 - Optimized student registration and application processes, enhancing efficiency.
 
 **Tech Stack:** React.js, Typescript, Node.js, Express.js, AWS
 
 **Placements Pro Hub - Web App**  
-[GitHub Repository](https://github.com/yourusername/placements-pro-hub)  
+[GitHub Repository](https://github.com/spy-adi/placements-pro-hub)  
 - Led development of a user-friendly registration portal, optimizing job and internship notification form completion time by 30%.
 - Deployed the website on AWS EC2 using Docker images.
 
@@ -91,7 +91,7 @@ May 2023 - July 2023
 
 ## 🏅 Competitive Programming
 
-- **LeetCode:** Rated 1765, solved over 850 problems. [adi ch](https://leetcode.com/yourprofile)
+- **LeetCode:** Rated 1765, solved over 850 problems. [adi ch](https://leetcode.com/adi_ch)
 - **Codeforces:** Specialist (1457), solved over 300 problems. [adi.ch](https://codeforces.com/profile/adi.ch)
 - **GeeksForGeeks:** Coding Score 907, solved over 250 problems. [adi22feb](https://auth.geeksforgeeks.org/user/adi22feb/profile)
 - **Codechef:** 4-star (1944), solved over 60 problems. [adi ch](https://www.codechef.com/users/adi_ch)
@@ -110,4 +110,4 @@ May 2023 - July 2023
 
 ---
 
-*This README was generated with ❤️ by [Aditya Mishra](https://github.com/yourusername)*
+*This README was generated with ❤️ by [Aditya Mishra](https://github.com/spy-adi)*
