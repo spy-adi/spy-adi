@@ -1,18 +1,113 @@
-# 💫 About Me:
-I am Aditya Mishra from IIT ISM Dhanbad, a web developer with a strong foundation in MERN stack development. With a keen eye for detail and a commitment to clean, efficient code, I strive to bring creativity and functionality to every project I undertake. My goal is to contribute to the ever-evolving world of web development and create solutions that make a positive impact.
+# Hi there, I'm Aditya Mishra! 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/spy.adi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityamishra22) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Aditya-3872) 
+## About Me
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=spy-adi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=spy-adi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=spy-adi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I'm an aspiring software engineer with a strong background in Electrical Engineering and Computer Science. Currently pursuing my Bachelor of Technology at the Indian Institute of Technology (Indian School of Mines), Dhanbad, I have a passion for developing efficient and innovative software solutions.
+
+- 🔭 I’m currently working on exciting web applications.
+- 🌱 I’m currently learning advanced concepts in web development and cloud technologies.
+- 👯 I’m looking to collaborate on open-source projects and innovative web applications.
+- 💬 Ask me about web development, system design, and competitive programming.
+- 📫 How to reach me: adi22feb@gmail.com
+- ⚡ Fun fact: I enjoy playing cricket and badminton in my free time.
+
+## 🛠️ Technical Skills
+
+**Languages:**  
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+
+**Frameworks & Libraries:**  
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![Material UI](https://img.shields.io/badge/-Material--UI-black?style=flat-square&logo=material-ui)
+![Ant Design](https://img.shields.io/badge/-Ant--Design-black?style=flat-square&logo=ant-design)
+![TypeORM](https://img.shields.io/badge/-TypeORM-black?style=flat-square&logo=typeorm)
+![Sequelize](https://img.shields.io/badge/-Sequelize-black?style=flat-square&logo=sequelize)
+
+**Tools & Technologies:**  
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira)
+![Confluence](https://img.shields.io/badge/-Confluence-black?style=flat-square&logo=confluence)
+
+## 📈 GitHub Stats
+
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+
+## 🏆 Achievements
+
+- **2nd position** in Inter IIT Tech Meet 9.0, hosted by IIT Guwahati.
+- **1st position** in Web it Up, NVCTI IIT (ISM) Dhanbad.
+- **3rd position** in Indulge 1.0 Hackathon, CDC and SCPT IIT (ISM), Dhanbad.
+
+## 💼 Experience
+
+**Barclays Global Services - Pune, Maharashtra**  
+*Software Development Intern*  
+May 2023 - July 2023  
+- Achieved a 50% reduction in account opening time through the implementation of a chatbot.
+- Implemented caching mechanisms, reducing data retrieval times by 20%.
+- 1st runner-up in the APAC Innovation Bootcamp.
+
+**Tech Stack:** React.js, Typescript, Node.js, Express.js, Jira, Bitbucket, Confluence
+
+## 📚 Projects
+
+**Thesis Management System - Web App**  
+[GitHub Repository](https://github.com/yourusername/thesis-management-system)  
+- Streamlined PhD student life-cycle at the institute, reducing thesis submission and evaluation times by 20%.
+- Created React.js-based portals with over 40 distinct web pages.
+
+**Tech Stack:** React.js, Node.js, Express.js, MySQL, Sequelize
+
+**Students Connect Hub - Web App**  
+[GitHub Repository](https://github.com/yourusername/students-connect-hub)  
+- Developed a student-centric portal for internship and placement registrations, reducing submission time by 25%.
+- Optimized student registration and application processes, enhancing efficiency.
+
+**Tech Stack:** React.js, Typescript, Node.js, Express.js, AWS
+
+**Placements Pro Hub - Web App**  
+[GitHub Repository](https://github.com/yourusername/placements-pro-hub)  
+- Led development of a user-friendly registration portal, optimizing job and internship notification form completion time by 30%.
+- Deployed the website on AWS EC2 using Docker images.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Google Sheets, Docker, AWS, Cloudflare
+
+## 🏅 Competitive Programming
+
+- **LeetCode:** Rated 1765, solved over 850 problems. [adi ch](https://leetcode.com/yourprofile)
+- **Codeforces:** Specialist (1457), solved over 300 problems. [adi.ch](https://codeforces.com/profile/adi.ch)
+- **GeeksForGeeks:** Coding Score 907, solved over 250 problems. [adi22feb](https://auth.geeksforgeeks.org/user/adi22feb/profile)
+- **Codechef:** 4-star (1944), solved over 60 problems. [adi ch](https://www.codechef.com/users/adi_ch)
+- **AtCoder:** Rated 836, solved over 60 problems. [AdityaMI](https://atcoder.jp/users/AdityaMI)
+- **HackerRank:** 5-star in Problem Solving and Language Proficiency (C++ & Java), solved over 180 problems.
+- **Global Rankings:** Codechef Exun (23), Codechef Starters (507), Codeforces Round 799 (694).
+
+## 🌟 Leadership & Extra-Curricular Activities
+
+- **Core Team Member (Tech Coordinator)** at Student Coordinators’ Placement Team’23, IIT (ISM) Dhanbad.
+- **Tech Coordinator** of HackFest’23.
+- **Volunteer** at Student NGO Kartavya.
+- **Member** of Cricket Club, IIT (ISM) Dhanbad.
+- **3rd runner-up** at Inter Hostel Badminton Competition.
+- **Content Creator** with 63.3K+ views on Quora.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=spy-adi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*This README was generated with ❤️ by [Aditya Mishra](https://github.com/yourusername)*
